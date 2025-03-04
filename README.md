@@ -12,31 +12,31 @@ The target variable is "target", where 1 indicates the presence of heart disease
 
 # 🛠 Implementation Steps
 
-Data Preprocessing:
+# Data Preprocessing:
 
 Handled missing values (if any).
 
 Standardized features using StandardScaler.
 
-Feature Selection:
+# Feature Selection:
 
 Used Recursive Feature Elimination (RFE) to select the most important features.
 
-Model Training & Comparison:
+# Model Training & Comparison:
 
 Trained Logistic Regression, Random Forest, SVM, Gradient Boosting, and KNN.
 
 Evaluated models using accuracy and ROC-AUC scores.
 
-Hyperparameter Tuning:
+# Hyperparameter Tuning:
 
 Applied GridSearchCV to optimize Random Forest parameters.
 
-Class Imbalance Handling:
+# Class Imbalance Handling:
 
 Implemented SMOTE (Synthetic Minority Over-sampling Technique).
 
-Performance Evaluation:
+# Performance Evaluation:
 
 Used confusion matrix, classification report, and ROC-AUC curve to assess model performance.
 
