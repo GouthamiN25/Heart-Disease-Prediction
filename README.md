@@ -1,5 +1,8 @@
 ## Heart Disease Prediction Using Machine Learning
 
+![heart](https://github.com/user-attachments/assets/5a548bd0-6e17-4b1a-b848-41cb3e9f4c2c)
+
+
 ## 📌 Project Summary
 
 This project aims to predict the presence of heart disease in patients based on multiple health parameters. The model utilizes various machine learning algorithms, including Logistic Regression, Random Forest, SVM, Gradient Boosting, and K-Nearest Neighbors (KNN). Feature selection, hyperparameter tuning, and class imbalance handling techniques were applied to enhance model performance.
