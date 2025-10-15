@@ -43,7 +43,7 @@ Implemented SMOTE (Synthetic Minority Over-sampling Technique).
 
 Used confusion matrix, classification report, and ROC-AUC curve to assess model performance.
 
-## 📈 Results & Insight
+## 📈 Results & Insights
 
 Random Forest and Gradient Boosting models outperformed Logistic Regression and KNN.
 
